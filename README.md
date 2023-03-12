@@ -48,9 +48,6 @@ The project contains a [`render.yaml`](./render.yaml) [*"Blueprint"*](https://re
 
 Go to [dashboard.render.com/blueprints](https://dashboard.render.com/blueprints) and connect to this Blueprint and see how the app and database automatically gets deployed.
 
-## Files of note
-
-
 
 ## Commands
 
